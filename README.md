@@ -1,5 +1,5 @@
 # ClimateWins-Achievement-2
-# Machine Learning for Predicting Climate Changes with ClimateWins
+ Machine Learning for Predicting Climate Changes with ClimateWins
 
 ## Project Overview
 This project, "Machine Learning with Python: Weather Conditions and Climate Change with ClimateWins," aims to predict the consequences of climate change around Europe and determine the safest places for people to live within the next 25 to 50 years using advanced machine learning models.
@@ -43,5 +43,3 @@ This project, "Machine Learning with Python: Weather Conditions and Climate Chan
 - **Innovative Ideas:**
   - Generative Adversarial Networks (GANs)
   - Reinforcement Learning
-
-## Project Structure
